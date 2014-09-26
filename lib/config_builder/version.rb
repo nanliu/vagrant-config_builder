@@ -1,3 +1,3 @@
 module ConfigBuilder
-  VERSION = '0.11.0'
+  VERSION = '0.11.0nan'
 end
